@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I’m Uzma 👋 — Product Manager | Data & AI Enthusiast
 
-<!--
-**UzmaPSU/UzmaPSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build data-driven products that merge analytics, automation, and AI to solve real-world problems.
 
-Here are some ideas to get you started:
+🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[PM Portfolio – Hands-on Product Projects](https://github.com/UzmaPSU/pm-portfolio-uzma)
+
+End-to-end projects including PRDs, research plans, Streamlit demos, and mobile prototypes.
+
+🧩 Skills & Tools
+
+Product Strategy · PRD Writing · Roadmapping · SQL · Power BI · Python · Streamlit · Azure · Figma · A/B Testing · User Research · Agile/Scrum
+
+💡 Currently Working On
+
+Building AI-driven prioritization, NLP backlog clustering, and real-time analytics dashboards to showcase my PM workflow.
+
+📬 Let’s connect:
+[LinkedIn](https://www.linkedin.com/in/uzmamustafaa/)
+[Email](uzmamustafaa@gmail.com)
