@@ -1,4 +1,4 @@
-Hi, I’m Uzma 👋 — Product Manager | Data & AI Enthusiast
+Hi, I’m Uzma 👋  Product Manager | Data & AI Enthusiast
 
 I design and build data-driven products that merge analytics, automation, and AI to solve real-world problems.
 
