@@ -10,7 +10,7 @@ End-to-end projects including PRDs, research plans, Streamlit demos, and mobile 
 
 🧩 Skills & Tools
 
-Product Strategy · PRD Writing · Roadmapping · SQL · Power BI · Python · Streamlit · Azure · Figma · A/B Testing · User Research · Agile/Scrum
+**Product Strategy** · **PRD Writing** · **Roadmapping** · **SQL** · **Power BI** · **Python** · **Streamlit** · **Azure** · **Figma** · **A/B Testing** · **User Research** · **Agile/Scrum**
 
 💡 Currently Working On
 
